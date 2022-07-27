@@ -13,5 +13,5 @@ We covered the steps below in this project.
 - Dynamically deploying models and Updating a model to the endpoint
 - Delete the Multi-Model Endpoint
 
-Please refer to the [Medium article](hhttps://medium.com/@shwet.prakash97/deployed-multiple-transformers-models-using-amazon-sagemaker-multi-model-endpoints-e73d109dc7cf) for detailed information.
+Please refer to the [Medium article](https://medium.com/@shwet.prakash97/deployed-multiple-transformers-models-using-amazon-sagemaker-multi-model-endpoints-e73d109dc7cf) for detailed information.
  
